@@ -99,7 +99,7 @@ func _process(delta):
 
 ## Менеджер сущностей:
 
-```gdcript
+```gdscript
 # entity_manager.gd
 
 class EntityManager:
